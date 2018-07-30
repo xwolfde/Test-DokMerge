@@ -14,4 +14,12 @@ Bei der Zusammenstellung eiens ZIeldokuments, soll man via Skript die Kapitel je
   - http://pandoc.org/
   - http://pandoc.org/try/
 
+- MultiMarkdown
+  - http://fletcherpenney.net/multimarkdown/
 
+- https://github.com/fletcher/MMD-Support
+
+
+### Siehe auch
+
+- https://www.develves.net/blogs/jnspd-closed/2014-03-16-working-with-multi-file-markdown-documents/
