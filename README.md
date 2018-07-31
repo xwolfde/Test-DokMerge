@@ -274,34 +274,6 @@ Footnotes           | [\^4] and [\^4]: | [^4] and footnote 4   |
 
 
 
-
-## <a name="rendering-pane"></a>The Rendering Preference Pane
-This is where I keep preferences relating to how I render and style the parsed markdown in the preview window.  
-![Rendering preferences pane](http://d.pr/i/rT4d+)
-
-### CSS
-You can choose different css files for me to use to render your html. You can even customize or add your own custom css files.
-
-### Syntax Highlighting
-You have already seen how I can syntax highlight your fenced code blocks. See the [Fenced Code Block](#fenced-code-block) section if you haven’t! You can also choose different themes for syntax highlighting.
-
-### TeX-like Math Syntax
-I can also render TeX-like math syntaxes, if you allow me to.[^math] I can do inline math like this: \\( 1 + 1 \\) or this (in MathML): <math><mn>1</mn><mo>+</mo><mn>1</mn></math>, and block math:
-
-\\[
-    A^T_S = B
-\\]
-
-or (in MathML)
-
-<math display="block">
-    <msubsup><mi>A</mi> <mi>S</mi> <mi>T</mi></msubsup>
-    <mo>=</mo>
-    <mi>B</mi>
-</math>
-
-
-
 ### Task List Syntax
 1. [x] I can render checkbox list syntax
 	* [x] I support nesting
